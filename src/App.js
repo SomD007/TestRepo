@@ -14,8 +14,5 @@ class App extends React.Component {
   }
 }
 //Test Comment
-//Comment 3
-//Comment 2
-//Comment 2
-//Comment 4
+//Comment 10
 export default App;
