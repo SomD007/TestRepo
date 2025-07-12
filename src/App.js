@@ -14,11 +14,8 @@ class App extends React.Component {
   }
 }
 //Test Comment
-<<<<<<< HEAD
 //Comment 3
-=======
 //Comment 2
 //Comment 2
->>>>>>> new-branch
-
+//Comment 4
 export default App;
